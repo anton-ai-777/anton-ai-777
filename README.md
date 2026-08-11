@@ -1,6 +1,6 @@
 # 👋 Привет! Я Антон Нижегородов
 
-## 🐍 Python Developer → AI Engineer
+## 🐍 Разработчик Python → AI Engineer
 
 Изучаю Python и разработку AI-приложений через практические проекты.
 
