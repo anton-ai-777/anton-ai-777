@@ -1,75 +1,52 @@
-# 👋 Hi, I'm Anton Nizhegorodov
+# 👋 Привет! Я Антон Нижегородов
 
-### 🐍 Python Developer → AI Engineer
+## 🐍 Python Developer → AI Engineer
 
-I'm learning Python and AI Engineering by building practical projects.
+Изучаю Python и разработку AI-приложений через практические проекты.
 
-My goal is to develop AI bots, AI agents and automation solutions for real-world tasks.
+Моя цель — научиться создавать AI-ботов, AI-агентов и решения для автоматизации реальных задач.
 
----
-
-## 🚀 What I'm Learning
+## 🚀 Что изучаю
 
 - 🐍 Python
 - 🤖 AI Engineering
-- 🧠 AI Agents
-- 💬 AI Bots
+- 🧠 AI-агенты
+- 💬 AI-боты
 - 🔗 OpenAI API
 - 🌐 OpenRouter
 - 📚 RAG
-- 📱 Telegram Bots
-- ⚙️ Automation
-- 🐙 Git & GitHub
+- 📱 Telegram-боты
+- ⚙️ Автоматизация
 
----
+## 📂 Учебные проекты
 
-## 🛠️ Current Skills
+В этом профиле я публикую проекты, созданные в процессе обучения.
 
-**Languages**
+Каждый проект помогает постепенно переходить от основ Python к разработке полноценных AI-решений.
 
-- Python
+## 🎯 Цель обучения
 
-**Tools**
+Научиться самостоятельно проходить полный цикл разработки:
 
-- VS Code
-- Git
-- GitHub
+**Идея → Код → AI → Интеграции → Деплой → Готовый проект**
 
-**AI & APIs**
-
-- OpenAI API
-- OpenRouter
-
----
-
-## 📂 My Projects
-
-### 🐍 Python Projects
-
-- [01_business_card](https://github.com/anton-ai-777/01_business_card)
-- [02_profile_generator](https://github.com/anton-ai-777/02_profile_generator)
-- [03_smart_calculator](https://github.com/anton-ai-777/03_smart_calculator)
-- [04_guess_the_number](https://github.com/anton-ai-777/04_guess_the_number)
-- [05_task_manager](https://github.com/anton-ai-777/05_task_manager)
-- [06_user_database](https://github.com/anton-ai-777/06_user_database)
-
----
-
-## 🎯 My Roadmap
+## 📈 Мой путь
 
 ```text
 Python
    ↓
 Git & GitHub
    ↓
-OpenAI API / OpenRouter
+API
    ↓
-AI Bots
+AI
    ↓
-AI Agents
+AI-боты
+   ↓
+AI-агенты
    ↓
 RAG
    ↓
-Telegram & Automation
+Автоматизация
    ↓
-Commercial AI Projects
+Коммерческие AI-проекты
